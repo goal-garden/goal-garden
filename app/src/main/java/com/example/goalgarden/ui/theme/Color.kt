@@ -1,4 +1,4 @@
-package com.example.movieappmad24.ui.theme
+package com.example.goalgarden.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

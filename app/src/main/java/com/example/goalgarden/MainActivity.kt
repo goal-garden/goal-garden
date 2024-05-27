@@ -1,4 +1,4 @@
-package com.example.movieappmad24
+package com.example.goalgarden
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -8,12 +8,9 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.Card
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
-import androidx.compose.material3.Text
-import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.painterResource
-import androidx.compose.ui.tooling.preview.Preview
-import com.example.movieappmad24.ui.theme.MovieAppMAD24Theme
+import com.example.goalgarden.ui.theme.MovieAppMAD24Theme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

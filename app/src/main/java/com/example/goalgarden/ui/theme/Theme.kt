@@ -1,4 +1,4 @@
-package com.example.movieappmad24.ui.theme
+package com.example.goalgarden.ui.theme
 
 import android.app.Activity
 import android.os.Build
